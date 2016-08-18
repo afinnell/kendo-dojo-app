@@ -1,15 +1,18 @@
-# Kendo Dojo App
+This project has been released under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html), the text of which is included below. This license applies ONLY to the source of this repository and does not extend to any other Kendo UI distribution or variant, or any other 3rd party libraries used in a repository. For licensing information about Kendo UI, see the [License Agreements page](https://www.kendoui.com/purchase/license-agreement.aspx) at [KendoUI.com](http://www.kendoui.com).
 
-```
-Copyright (c) 2016 Bitstream Innovations, LLC
-All rights reserved.
-```
+> Copyright © 2016 Bitstream Innovations, LLC
+> Copyright © 2016 Dueling Coders LLP
+> Copyright © 2016 Andrew T. Finnell <andrew.finnell@duelingcoders.com>
+> Copyright © 2016 Chris Wilson <chris.wilson@bitstreaminnovations.com>
 
-_This is a proprietary project._
+> Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-Unless you have been given **explicit permission** to view, edit 
-or copy this project by Bitstream Innovations, LLC. 
-**you are in violation of this license**.
+> [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-
-
+>  Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
