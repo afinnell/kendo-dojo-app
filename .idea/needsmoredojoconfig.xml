@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NeedsMoreDojoConfiguration">
+    <option name="addModuleIfThereAreNoneDefined" value="true" />
+    <option name="amdImportNamingExceptions">
+      <map />
+    </option>
+    <option name="amdImportNamingExceptionsList">
+      <list>
+        <option value="dojo/sniff(has" />
+        <option value="doh/main(doh" />
+        <option value="dojo/sniff(has" />
+        <option value="doh/main(doh" />
+        <option value="kendo.router.min(router" />
+        <option value="kendo.view.min(view" />
+        <option value="kendo-ui/kendo.router.min(kendo_Router" />
+        <option value="kendo-ui/kendo.core.min(kendo" />
+        <option value="kendo-ui/kendo.core(kendo" />
+      </list>
+    </option>
+    <option name="dojoSourcesDirectory" value="$PROJECT_DIR$/src/js/lib" />
+    <option name="preferRelativeImports" value="true" />
+    <option name="projectSourcesDirectory" value="$PROJECT_DIR$/src/js" />
+    <option name="singleQuotedModuleIDs" value="false" />
+    <option name="version" value="0.7" />
+  </component>
+</project>

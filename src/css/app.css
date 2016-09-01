@@ -1,0 +1,13 @@
+.status-text {
+    font-family: Consolas, "Ubuntu Mono", "Lucida Console", "Courier New", monospace;
+    font-size: smaller;
+}
+
+.status-bar {
+    height: 1.5em;
+    width: 100%;
+    padding: 4px;
+    border: none;
+    margin: 0;
+    background-color: transparent;
+}

@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Babel Files" pattern="file[kendo-dojo-app]:src//*.es6.js" />
+</component>

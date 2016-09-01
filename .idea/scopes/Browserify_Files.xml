@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Browserify Files" pattern="file:src/js/main.js" />
+</component>

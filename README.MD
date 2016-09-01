@@ -1,3 +1,15 @@
+"transform-es2015-modules-simple-amd",
+"transform-es2015-modules-amd",
+"babel-plugin-add-module-exports",
+"add-return-exports",
+"transform-es2015-modules-amd",
+    [
+      "transform-es2015-classes",
+      {
+        "loose": true
+      }
+    ]
+
 # Kendo Dojo App
 
 ### Overview

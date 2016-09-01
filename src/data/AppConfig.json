@@ -1,0 +1,46 @@
+{
+  "defaultView": "/login",
+  "layout": {
+    "domId": "#appView",
+    "template": "fulcrum/views/AppLayout.html"
+  },
+  "header": {
+    "domId": "#appHeader",
+    "template": "fulcrum/views/AppMenuView.html",
+    "controller": "fulcrum/controllers/AppMenuController",
+    "model": "fulcrum/models/AppViewModel"
+  },
+  "footer": {
+    "domId": "#appFooter",
+    "template": "fulcrum/views/AppStatusView.html",
+    "controller": "fulcrum/controllers/AppStatusController",
+    "model": "fulcrum/models/AppViewModel"
+  },
+  "views": [
+    {
+      "id": "LoginView",
+      "url": "/login",
+      "template": "fulcrum/views/LoginView.html",
+      "model": "fulcrum/viewmodels/LoginViewModel",
+      "controller": "fulcrum/controllers/LoginViewController"
+    },
+    {
+      "id": "HomeView",
+      "url": "/home",
+      "template": "fulcrum/views/HomeView.html",
+      "model": "fulcrum/viewmodels/HomeViewModel",
+      "controller": "fulcrum/controllers/HomeViewController"
+    }
+  ],
+  "modules": [
+    "fulcrum/controllers/AbsCalcController",
+    "fulcrum/controllers/AbsGeometryAdminController",
+    "fulcrum/controllers/AppStatusController",
+    "fulcrum/controllers/SessionController",
+    "fulcrum/controllers/LoginController",
+    "fulcrum/controllers/AdminController",
+    "fulcrum/controllers/AbsJobController",
+    "fulcrum/controllers/FabricatorController",
+    "fulcrum/services/WebSocketService"
+  ]
+}
